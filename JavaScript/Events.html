@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+</head>
+<body>
+    <input onclick="inputClick()"
+           onfocus="inputFocus()"
+           onblur="inputBlur()"
+           onmousedown="inputMouseDown()"
+           onmouseup="inputMouseOut()"
+           />
+
+    <script>
+        function inputClick() {
+            console.log("input a tıklandı");
+        }
+
+        function inputFocus() {
+            console.log("input seçili");
+        }
+
+        function inputBlur() {
+            console.log("input seçili değil");
+        }
+
+        function inputMouseDown() {
+            console.log("inputta fareye basıldı");
+        }
+        function inputMouseOut() {
+            console.log("inputta fareden el çekildi");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var msg = "Hello World This is Test";
+        console.log(msg)
+
+        msg = msg.replace("Hello", "What's Up");
+        console.log(msg)
+
+        var arrayMsg = msg.split(" ");
+        console.log(arrayMsg);
+
+        for (var i = 0; i < arrayMsg.length; i++) {
+            console.log(arrayMsg[i]);
+        }
+
+        if (msg.indexOf("This") != -1) {
+            console.log("Message contains \"This\"");
+            console.log(msg.valueOf("This"));
+        }
+        
+    </script>
+</head>
+<body>
+
+</body>
+</html>
