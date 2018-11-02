@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        alert("Page Loaded Successfully");
+        console.log("Time is up!");
+    </script>
+</head>
+<body>
+    <div id="divTag">
+        <h1>Falan Filan</h1>
+        <p class="pTag"> Cavascript mi yazıyon lan ?</p>
+    </div>
+
+    Adı:
+    <input type="text" name="data" />
+    <button id="getData" onclick="pushed()">Get Data</button>
+</body>
+
+</html>
+<script>
+    document.getElementsByTagName("input")[0].value = "Naaaaaabün";
+    var data = document.getElementsByTagName("input")[0].value;
+    alert(data);
+    document.getElementById("getData").innerHTML = data;
+
+    function pushed() {
+        document.getElementsByName("data")[0].value = "Yanaaaaaazzzzz";
+    };
+</script>
