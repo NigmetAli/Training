@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+    <title></title>
+</head>
+<body>
+    <div id="divTag">
+        <h3>Today's News</h3>
+        <p class="contain">
+            The team A is transferred a player.
+        </p>
+    </div>
+    <input name="Name" />
+
+    <script>
+        console.log("---------------here is javascript--------------")
+        console.log(document.getElementById("divTag").innerHTML);
+        console.log(document.getElementsByClassName("contain")[0].innerHTML);
+    </script>
+
+    <script>
+        console.log("-----------------here is jquery----------------")
+        console.log("jQuery dizili" + $("#divTag")[0].innerHTML);
+        console.log("jQuery dizisiz" + $("#divTag").html());
+        console.log("jQuery " + $(".contain")[0].innerHTML);
+        //console.log($("#divTag").html("Kamon değil kaaaammmmmoooooonnnnnn"))
+        $(".contain").html("Başlığı değiştirim miii ?");
+
+    </script>
+</body>
+</html>

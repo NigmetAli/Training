@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{9243BCA1-A8B8-489C-A567-CDC5B92D0A20}"
+	ProjectSection(SolutionItems) = preProject
+		..\Html_Interctıon\Html_Interaction.html = ..\Html_Interctıon\Html_Interaction.html
+		..\Html_Interctıon\jquery-3.3.1.min.js = ..\Html_Interctıon\jquery-3.3.1.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6547D0AC-A119-48FF-B0A2-29AB8EA61CD8}
+	EndGlobalSection
+EndGlobal

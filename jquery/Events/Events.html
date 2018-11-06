@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+    <div>
+        Name:
+        <input id="Name" />
+        Surname:
+        <input id="SurName" />
+        <button id="btnClick">Hit Me</button>
+    </div>
+
+    <script>
+        $("#btnClick").click(function () {
+            this.innerHTML = "Clicked";
+            $("#Name").val("Khabib")
+        });
+        $("#btnClick").on("click", function () {
+            $("#SurName").val("Other Way to use")
+        });
+
+        $("#btnClick").mousemove(function () {
+            $("#Name").val("Mouse Moved")
+        });
+        $("#btnClick").mouseleave(function () {
+            $("#SurName").val("Mouse Left")
+            $(this).css("color", "purple");
+            $(this).css("background-color", "red");
+            $(this).css("font-size", "20px");
+        });
+        
+    </script>
+</body>
+</html>

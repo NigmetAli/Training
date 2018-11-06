@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Effects", "Effects", "{28869D09-153E-425C-BB35-28766301E227}"
+	ProjectSection(SolutionItems) = preProject
+		Effects.html = Effects.html
+		..\jquery-3.3.1.min.js = ..\jquery-3.3.1.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78707B8A-7F9B-452D-80C9-41B72C982881}
+	EndGlobalSection
+EndGlobal

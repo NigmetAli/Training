@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+    <button id="btnAnimate">Animate</button>
+    <button id="btnHide">Hide</button>
+    <button id="btnShow">Show</button>
+    <button id="btnToggle">Toggle</button>
+    <button id="btnSlideDown">Slide Down</button>
+    <button id="btnSlideUp">Slide Up</button>
+    <button id="btnSlideToggle">Slide Toggle</button>
+    <button id="btnStop">Stop</button>
+
+    <div id="divTag" style="width:100px;height:50px;">
+
+        <h3>There Are Some Effects You Gonna Show Here!</h3>
+        <p id="test">What Kinda Effects ?</p>
+    </div>
+
+    <script>
+        $("#btnAnimate").click(function () {
+            $("#divTag").animate({                
+                height: 300,
+                width: 600,
+                opacity: 0.6,
+                left: 120,
+                top: 100                
+            })
+        })
+        $("#btnHide").click(function () {
+            $("#divTag").hide();
+        })
+        $("#btnShow").click(function () {
+            $("#divTag").show();
+        })
+        $("#btnToggle").click(function () {
+            $("#divTag").toggle();
+        })
+        $("#btnSlideDown").click(function () {
+            $("#divTag").slideDown(1000);
+        })
+        $("#btnSlideUp").click(function () {
+            $("#divTag").slideUp(1000);
+        })
+        $("#btnSlideToggle").click(function () {
+            $("#divTag").slideToggle(1000);
+        })
+        $("#btnStop").click(function () {
+            $("#divTag").stop();
+        })
+    </script>
+</body>
+</html>

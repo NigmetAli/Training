@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{6C801923-EA34-49BB-983D-6B250F71AE93}"
+	ProjectSection(SolutionItems) = preProject
+		..\usingJquery\jquery-3.3.1.min.js = ..\usingJquery\jquery-3.3.1.min.js
+		RegisterForm.html = RegisterForm.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC853AB-7031-47AF-A56D-399196DA1BB6}
+	EndGlobalSection
+EndGlobal

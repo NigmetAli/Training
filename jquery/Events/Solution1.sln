@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{413C53F8-C5D5-4545-B651-3521B231B7E0}"
+	ProjectSection(SolutionItems) = preProject
+		Events.html = Events.html
+		jquery-3.3.1.min.js = jquery-3.3.1.min.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4AD393-343D-4E8D-9C4D-AD92CBEEAB4C}
+	EndGlobalSection
+EndGlobal
