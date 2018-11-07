@@ -1,0 +1,6 @@
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\obj\Debug\MYARCH.UTILITIES.csprojAssemblyReference.cache
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\obj\Debug\MYARCH.UTILITIES.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\bin\Debug\MYARCH.UTILITIES.dll
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\bin\Debug\MYARCH.UTILITIES.pdb
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\obj\Debug\MYARCH.UTILITIES.dll
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.UTILITIES\obj\Debug\MYARCH.UTILITIES.pdb
