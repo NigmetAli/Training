@@ -1,0 +1,14 @@
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csprojAssemblyReference.cache
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll.config
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.pdb
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.dll
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.CORE.dll
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.CORE.pdb
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.xml
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CopyComplete
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.dll
+C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.pdb
