@@ -4,3 +4,9 @@ C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.csprojAs
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.csproj.CoreCompileInputs.cache
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.pdb
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\bin\Debug\MYARCH.DTO.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\bin\Debug\MYARCH.DTO.pdb
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.csprojAssemblyReference.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.csproj.CoreCompileInputs.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DTO\obj\Debug\MYARCH.DTO.pdb

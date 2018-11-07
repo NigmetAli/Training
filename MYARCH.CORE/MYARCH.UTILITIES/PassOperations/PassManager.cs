@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace MYARCH.UTILITIES.StringOperations
 {
@@ -19,7 +14,7 @@ namespace MYARCH.UTILITIES.StringOperations
             }
             catch (Exception)
             {
-                return data
+                return data;
             }
         }
 
