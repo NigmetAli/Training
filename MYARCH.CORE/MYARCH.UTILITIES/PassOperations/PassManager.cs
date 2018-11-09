@@ -15,7 +15,7 @@ namespace MYARCH.UTILITIES.StringOperations
             }
             catch (Exception)
             {
-                return data
+                return data;
             }
         }
 

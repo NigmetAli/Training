@@ -6,3 +6,11 @@ C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.pdb
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CopyComplete
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.dll
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.pdb
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csprojAssemblyReference.cache
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CopyComplete
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.dll
+C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.pdb

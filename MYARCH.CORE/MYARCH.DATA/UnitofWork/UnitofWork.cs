@@ -10,7 +10,6 @@ namespace MYARCH.DATA.UnitofWork
     {
         private readonly MyArchContext _context;
         private bool disposed = false;
-        DbContextTransaction transaction;
 
         public UnitofWork(MyArchContext context)
         {
@@ -22,7 +21,7 @@ namespace MYARCH.DATA.UnitofWork
             _context = context;
         }
 
-      public  IGenericRepository<TEntity> GetRepository<TEntity>() where TEntity : class
+        public IGenericRepository<TEntity> GetRepository<TEntity>() where TEntity : class
         {
             return new GenericRepository<TEntity>(_context);
         }
@@ -41,18 +40,19 @@ namespace MYARCH.DATA.UnitofWork
 
         public void BeginTransaction()
         {
-            transaction = _context.Database.BeginTransaction();
+            _context.Database.BeginTransaction();
         }
 
         public void Commit()
         {
-           transaction.Commit();
+            Commit();
         }
 
         public void Rollback()
         {
-            transaction.Rollback();
+            Rollback();
         }
+
         public virtual void Dispose(bool disposing)
         {
             if (!this.disposed)

@@ -1,5 +1,8 @@
 using MYARCH.CORE;
 using MYARCH.DATA.GenericRepository;
+using MYARCH.DATA.UnitofWork;
+using MYARCH.SERVICES.Interfaces;
+using MYARCH.SERVICES.Services;
 using System.Web.Mvc;
 using Unity;
 using Unity.Lifetime;
@@ -18,6 +21,8 @@ namespace MYARCH.IoC
 
         public static void RegisterTypes(IUnityContainer container)
         {
+            container.BindInRequestScope<IUnitofWork, UnitofWork>();
+            container.BindInRequestScope<IUserService, UserService>();
             container.BindInRequestScope<IGenericRepository<User>, GenericRepository<User>>();
             container.BindInRequestScope<IGenericRepository<Post>, GenericRepository<Post>>();
             container.BindInRequestScope<IGenericRepository<Category>, GenericRepository<Category>>();

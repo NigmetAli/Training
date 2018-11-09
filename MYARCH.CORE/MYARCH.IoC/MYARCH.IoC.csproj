@@ -94,6 +94,10 @@
       <Project>{9cad6621-17d3-445a-977a-a368bb074def}</Project>
       <Name>MYARCH.DATA</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MYARCH.SERVICES\MYARCH.SERVICES.csproj">
+      <Project>{163A3608-CF24-4DAA-A02E-549C066343FF}</Project>
+      <Name>MYARCH.SERVICES</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

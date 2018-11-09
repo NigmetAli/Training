@@ -9,6 +9,5 @@
         public string FullName { get; set; }
         public string Job { get; set; }
         public byte[] Image { get; set; }
-
     }
 }

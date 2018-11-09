@@ -7,7 +7,7 @@ namespace MYARCH.DATA.Context
     {
         private readonly MyArchContext _context;
 
-        public MyArchContext() : base("name=My ArchEntites")
+        public MyArchContext() : base("name=MyArchEntites")
         {
             //veritabanonda ilişkiler zaten tanımlı bir daha tanımlamana gereNk yok dedik şu an
             Configuration.LazyLoadingEnabled = false;
