@@ -12,6 +12,7 @@ C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.Sq
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CopyComplete
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.pdb
+<<<<<<< HEAD
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll.config
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.pdb
@@ -26,3 +27,19 @@ C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DA
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CopyComplete
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.dll
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.pdb
+=======
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll.config
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.DATA.pdb
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.CORE.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\MYARCH.CORE.pdb
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.xml
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csprojAssemblyReference.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CoreCompileInputs.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.csproj.CopyComplete
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.DATA\obj\Debug\MYARCH.DATA.pdb
+>>>>>>> 0a37828e9e0112a3f2e9952f4c671339756b719c

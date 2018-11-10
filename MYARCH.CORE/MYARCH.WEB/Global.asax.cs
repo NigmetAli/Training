@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using MYARCH.IoC;
 using System;
+=======
+﻿using System;
+>>>>>>> 0a37828e9e0112a3f2e9952f4c671339756b719c
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,7 +21,10 @@ namespace MYARCH.WEB
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+<<<<<<< HEAD
             UnityConfig.RegisterComponents();
+=======
+>>>>>>> 0a37828e9e0112a3f2e9952f4c671339756b719c
         }
     }
 }

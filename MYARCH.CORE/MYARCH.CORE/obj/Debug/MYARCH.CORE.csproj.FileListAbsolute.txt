@@ -6,6 +6,7 @@ C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.pdb
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\BEYZA\source\repos\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.dll
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.pdb
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\System.Configuration.ConfigurationManager.dll
@@ -14,3 +15,13 @@ C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CO
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CopyComplete
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.dll
 C:\Users\BEYZA\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.pdb
+=======
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\MYARCH.CORE.pdb
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csprojAssemblyReference.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CoreCompileInputs.cache
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.csproj.CopyComplete
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.dll
+C:\Users\NigmetAli\source\repos\Training\MYARCH.CORE\MYARCH.CORE\obj\Debug\MYARCH.CORE.pdb
+>>>>>>> 0a37828e9e0112a3f2e9952f4c671339756b719c

@@ -1,5 +1,8 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Text;
+=======
+>>>>>>> 0a37828e9e0112a3f2e9952f4c671339756b719c
 
 namespace MYARCH.UTILITIES.StringOperations
 {
