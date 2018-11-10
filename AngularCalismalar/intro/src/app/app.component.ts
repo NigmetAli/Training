@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Niğmet Ali';
+  city:string ="Kamon" //app.component.html e bak
 }
+
+

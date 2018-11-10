@@ -1,0 +1,20 @@
+<h1>Current City is {{city}}</h1> <!--city bize html den geldi-->
+
+<ul>
+  <div *ngFor="let customer of customers" (click)="selectCustomer(customer)">
+    <li *ngIf="customer.age < 30">
+      <!--(mouseover)="selectCustomer(customer)" bu şekilde olaylar eklenbilir-->
+      {{customer.firstName}} {{customer.lastName}}
+    </li>
+  </div>
+</ul>
+
+<strong *ngIf="selectedCustomer else elseBlock">{{selectedCustomer.firstName}} Seçtiniz</strong>
+<!--Yani bu *ngIf diyor ki; selectedCustomer undefined ise, bu strong etriketini hiç basma, ama else koyduğumuz için 
+  name i elseBlock olan ng-template e gidecek ve oradaki ifadeyi getirecek. 
+Bunu yazmazsak sayfa incelemesinde bir hata verecek, undfined olduğundan değer basılamadı falan diye.
+ bu hatayı almamak için sen bunu yaz buraya-->
+
+<ng-template #elseBlock>
+  Bir şey seçmediniz
+</ng-template>
